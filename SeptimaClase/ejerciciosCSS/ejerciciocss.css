@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://bit.ly/2kAAeql);
+    color: white;
+    margin: 20px;
+    padding: 50px;
+    font-family: 'arial';
+    border: 10px dotted white;
+}
+
+.texto1 {
+    background-color: black;
+    color: wheat;
+    border: 15px solid white;
+    margin: 70px;
+    padding: 30px;
+}
+
+#texto2 {
+    border-bottom: 20px double white;
+    border-top: 20px double white;
+    border-left: 10px dashed white;
+    border-right: 10px dashed white;
+    background-image: url(https://bit.ly/2mVuQim);
+    padding: 220px;
+    margin: 50px;
+    background-origin: padding-box;
+}
